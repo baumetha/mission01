@@ -5,7 +5,7 @@ package edu.isu.cs.cs3308.structures;
  * @author Isaac Griffith
  * @param <E> Element Type
  */
-public interface List<E> {
+public interface List<E>  {
 
     /**
      * @return first element in the list or null if the list is empty.
